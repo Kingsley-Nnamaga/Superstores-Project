@@ -67,8 +67,11 @@ The dataset was imported into Power BI, forming the foundation for designing an 
 ---
 ## Recommendations
 •    **Target High-Value Segments**: Tailor marketing efforts to the most profitable customer segments.
+
 •    **Focus on Top-Selling Categories**: Ensure stock availability and promotions for best-performing categories.
+
 •    **Adjust Pricing**: Optimize pricing for high-demand products to boost revenue.
+
 •    **Leverage Data Insights**: Use data tools to track trends and make informed decisions.
 
 ---
