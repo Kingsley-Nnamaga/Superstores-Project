@@ -73,10 +73,15 @@ The dataset was imported into Power BI, forming the foundation for designing an 
 
 ---
 ## Limitations
-1. **Exclusion of Special Characters**: Several special characters were found in the state column and a few other columns. These records were excluded from the analysis for data consistency.  
+1. **Exclusion of Special Characters**: Several special characters were found in the state column and others. For data consistency, these records were excluded from the analysis.  
 2. **Import Challenges**: Issues arose when importing the dataset into SQL. Modifications were made, including setting the "product_name" field to MAX and changing "tarchar" to a decimal type (10,18).  
 
 ---
 
 ## Conclusion
 The analysis of the Superstore data revealed key insights into sales, and profit, highlighting the importance of certain product categories, customers, and segments in driving performance. The Superstore can enhance its operational efficiency and profitability by focusing on the most profitable areas and optimizing business strategies. The findings provide valuable guidance for data-driven decision-making and future strategic planning.
+
+---
+
+
+📊 💹 🖥️ 🖱️ 😫 🦾 😄
